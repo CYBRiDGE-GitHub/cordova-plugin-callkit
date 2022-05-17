@@ -1,4 +1,4 @@
-# cordova-plugin-callkit
+# cordova-plugin-callkit custom
 Cordova plugin that enables CallKit + PushKit (iOS) &amp; ConnectionService (Android) functionality to display native UI.
 
 This plugin is basically a merged of 2 plugins, which are, [WebsiteBeaver/CordovaCall](https://github.com/WebsiteBeaver/CordovaCall) and [Hitman666/cordova-ios-voip-push](https://github.com/Hitman666/cordova-ios-voip-push), to basically fulfill iOS 13's requirement for VOIP Push Notification. All credits goes to both of them.
